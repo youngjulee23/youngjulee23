@@ -20,7 +20,6 @@
 **Infra/Tools**  
 ![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-blue?style=for-the-badge&logoColor=white)
-![Static Badge](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngjulee23&layout=compact)
 ![youngju's github stats](https://github-readme-stats.vercel.app/api?username=youngjulee23&show_icons=true&theme=dracula)
